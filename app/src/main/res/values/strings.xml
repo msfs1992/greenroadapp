@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">greenroad</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoibXNmczE5OTIiLCJhIjoiY2p0aXdxcjV0MnUyMDQ0cDc3cGg0YXJzeiJ9.CZbLE0nfYhv5Q7mSJl5KJA</string>
+</resources>

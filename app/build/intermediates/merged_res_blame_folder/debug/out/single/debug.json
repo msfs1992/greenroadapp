@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "C:\\ANDROID_STUDIO\\greenroad2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\ANDROID_STUDIO\\greenroad2\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\ANDROID_STUDIO\\greenroad2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_flag_red_ref.png.flat",
+        "source": "C:\\ANDROID_STUDIO\\greenroad2\\app\\src\\main\\res\\drawable\\flag_red_ref.png"
+    },
+    {
+        "merged": "C:\\ANDROID_STUDIO\\greenroad2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\ANDROID_STUDIO\\greenroad2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\ANDROID_STUDIO\\greenroad2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\ANDROID_STUDIO\\greenroad2\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\ANDROID_STUDIO\\greenroad2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_flag_orange_ref.png.flat",
+        "source": "C:\\ANDROID_STUDIO\\greenroad2\\app\\src\\main\\res\\drawable\\flag_orange_ref.png"
+    },
+    {
+        "merged": "C:\\ANDROID_STUDIO\\greenroad2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\ANDROID_STUDIO\\greenroad2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\ANDROID_STUDIO\\greenroad2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_flag_blue.png.flat",
+        "source": "C:\\ANDROID_STUDIO\\greenroad2\\app\\src\\main\\res\\drawable\\flag_blue.png"
+    },
+    {
+        "merged": "C:\\ANDROID_STUDIO\\greenroad2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\ANDROID_STUDIO\\greenroad2\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\ANDROID_STUDIO\\greenroad2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_menu_button.png.flat",
+        "source": "C:\\ANDROID_STUDIO\\greenroad2\\app\\src\\main\\res\\drawable\\menu_button.png"
+    },
+    {
+        "merged": "C:\\ANDROID_STUDIO\\greenroad2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\ANDROID_STUDIO\\greenroad2\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\ANDROID_STUDIO\\greenroad2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\ANDROID_STUDIO\\greenroad2\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\ANDROID_STUDIO\\greenroad2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_flag_yellow_ref.png.flat",
+        "source": "C:\\ANDROID_STUDIO\\greenroad2\\app\\src\\main\\res\\drawable\\flag_yellow_ref.png"
+    },
+    {
+        "merged": "C:\\ANDROID_STUDIO\\greenroad2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_flag_red.png.flat",
+        "source": "C:\\ANDROID_STUDIO\\greenroad2\\app\\src\\main\\res\\drawable\\flag_red.png"
+    },
+    {
+        "merged": "C:\\ANDROID_STUDIO\\greenroad2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_flag_yellow.png.flat",
+        "source": "C:\\ANDROID_STUDIO\\greenroad2\\app\\src\\main\\res\\drawable\\flag_yellow.png"
+    },
+    {
+        "merged": "C:\\ANDROID_STUDIO\\greenroad2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\ANDROID_STUDIO\\greenroad2\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\ANDROID_STUDIO\\greenroad2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_flag_green.png.flat",
+        "source": "C:\\ANDROID_STUDIO\\greenroad2\\app\\src\\main\\res\\drawable\\flag_green.png"
+    },
+    {
+        "merged": "C:\\ANDROID_STUDIO\\greenroad2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\ANDROID_STUDIO\\greenroad2\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\ANDROID_STUDIO\\greenroad2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\ANDROID_STUDIO\\greenroad2\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\ANDROID_STUDIO\\greenroad2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_flag_blue_ref.png.flat",
+        "source": "C:\\ANDROID_STUDIO\\greenroad2\\app\\src\\main\\res\\drawable\\flag_blue_ref.png"
+    },
+    {
+        "merged": "C:\\ANDROID_STUDIO\\greenroad2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\ANDROID_STUDIO\\greenroad2\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\ANDROID_STUDIO\\greenroad2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_user_location.png.flat",
+        "source": "C:\\ANDROID_STUDIO\\greenroad2\\app\\src\\main\\res\\drawable\\user_location.png"
+    },
+    {
+        "merged": "C:\\ANDROID_STUDIO\\greenroad2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\ANDROID_STUDIO\\greenroad2\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\ANDROID_STUDIO\\greenroad2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\ANDROID_STUDIO\\greenroad2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\ANDROID_STUDIO\\greenroad2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_flag_orange.png.flat",
+        "source": "C:\\ANDROID_STUDIO\\greenroad2\\app\\src\\main\\res\\drawable\\flag_orange.png"
+    },
+    {
+        "merged": "C:\\ANDROID_STUDIO\\greenroad2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\ANDROID_STUDIO\\greenroad2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\ANDROID_STUDIO\\greenroad2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_flag_green_ref.png.flat",
+        "source": "C:\\ANDROID_STUDIO\\greenroad2\\app\\src\\main\\res\\drawable\\flag_green_ref.png"
+    },
+    {
+        "merged": "C:\\ANDROID_STUDIO\\greenroad2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\ANDROID_STUDIO\\greenroad2\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    }
+]
