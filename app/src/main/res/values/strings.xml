@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GreenRoad</string>
+    <string name="acceder">Acceder</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="email">Email</string>
+    <string name="introduce_tu_email">Introduce tu Email</string>
+    <string name="introduce_el_email_en_el_cual_estas_registrado_y_luego_apreta_el_boton_de_confirmar">Introduce el Email en el cual estas registrado y luego apreta el boton de confirmar.</string>
+    <string name="haz_olvidado_tu_contrase_a">haz olvidado tu contraseña?</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="todo">TODO</string>
+    <string name="logo">TODO</string>
+    <string name="has_olvidado_la_contra">Has olvidado la contraseña?</string>
+    <string name="ingresar_sn_registrarse">Ingresar sn registrarse</string>
+    <string name="greenroadLogoP">GreenRoad</string>
+    <string name="polygon_circle_transformation_circle_radius">Radius: %1$s</string>
+    <string name="polygon_circle_transformation_circle_steps">Steps: %1$d</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoibXNmczE5OTIiLCJhIjoiY2p0aXdxcjV0MnUyMDQ0cDc3cGg0YXJzeiJ9.CZbLE0nfYhv5Q7mSJl5KJA</string>
+</resources>
